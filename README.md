@@ -16,10 +16,26 @@ I'm a Software Engineer, Machine Learning Engineer, <!-- with a B.SC in -->and a
 - 📫 You can [view my Linkedin](https://www.linkedin.com/in/chisom-chinweze) and contact me by emailing chinwezechisom@gmail.com.
 
 ---
-
-
+## Technologies Used
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-E34F26?style=for-the-badge&logo=jupyter&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-293137?style=for-the-badge&logo=bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chisomdaniel&show_icons=true&include_all_commits=true&hide_border=true" alt="Daniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisomdaniel&langs_count=8&layout=compact&hide_border=true" alt="Daniel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chisomdaniel&show_icons=true&theme=transparent" alt="Daniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisomdaniel&langs_count=8&layout=compact&hide_border=true" alt="Daniel's GitHub stats" /> |
 | ------------- | ------------- |
