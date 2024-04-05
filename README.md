@@ -37,5 +37,16 @@ I'm a Software Engineer, Machine Learning Engineer, <!-- with a B.SC in -->and a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+<br/>
+
+## Top Projects
+[![Book Log](https://github-readme-stats.vercel.app/api/pin/?username=chisomdaniel&repo=book_log&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chisomdaniel/Book_log)
+[![InternHub](https://github-readme-stats.vercel.app/api/pin/?username=chisomdaniel&repo=internhub&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chisomdaniel/InternHub)
+
+[![View all Repo](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/chisomdaniel?tab=repositories)
+
+<br/>
+
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=chisomdaniel&show_icons=true&theme=transparent" alt="Daniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisomdaniel&langs_count=8&layout=compact&hide_border=true" alt="Daniel's GitHub stats" /> |
 | ------------- | ------------- |
