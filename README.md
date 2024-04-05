@@ -15,7 +15,8 @@ I'm a Software Engineer, Machine Learning Engineer, <!-- with a B.SC in -->and a
 - 💼 Job interests: Software Engineer, DevOps Engineer, Machine Learning Engineer.
 - 📫 You can [view my Linkedin](https://www.linkedin.com/in/chisom-chinweze) and contact me by emailing chinwezechisom@gmail.com.
 
----
+<br/>
+
 ## Technologies Used
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
