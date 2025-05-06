@@ -2,7 +2,7 @@
 
 [![ALXSE Badge](https://img.shields.io/badge/-ALX_Software_Engineering-6773E5?style=for-the-badge&logo=ALX&logoColor=white&link=https://www.alxafrica.com/)](https://www.alxafrica.com/) [![Linkedin Badge](https://img.shields.io/badge/-Chisom_Daniel_Chinweze-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chisom-chinweze)](https://www.linkedin.com/in/chisom-chinweze) [![Twitter Badge](https://img.shields.io/badge/-@ChisomCD-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChisomCD)](https://twitter.com/ChisomCD)
 
-I'm a Software and Machine Learning Engineer with a B.SC in Computer Engineering. I am currently learning and building different software engineering projects and expanding my knowledge in the different fields of machine learning. I'm passionate about sharing knowledge, documentation, web engineering, research, and others.
+I'm a Software and Machine Learning Engineer with a B.Eng in Computer Engineering. I am currently learning and building different software engineering projects and expanding my knowledge in the different fields of machine learning. I'm passionate about sharing knowledge, documentation, web engineering, research, and others.
 
 ### Glad to see you here! &nbsp;
 
